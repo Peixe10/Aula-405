@@ -4,7 +4,12 @@ A -  Os console.log(Nota: ...) foram criados para verificar se o código está r
 B - Abrir o CMD para executar e digitar:
     Criar novo nome e email: node script.js salvar Luis luis@uol
     Buscar email digitando nome: node script.js buscar Luis
-    Escrever todos os nomes e emails: node script.js buscar-todos */
+    Escrever todos os nomes e emails: node script.js buscar-todos 
+    
+   
+C - Erros não foram corrigidos nesse programa, procurar resolução do professor ou ir até o arquivo index.js
+
+    */
 
 //1 -Para pegar os arquivos do pc
 const fs = require("fs")
