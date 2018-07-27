@@ -1,0 +1,17 @@
+{
+  "name": "cadastros.json",
+  "version": "1.0.0",
+  "description": "Exercicio de cadastro utilizando JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cadastro",
+    "JSON",
+    "estacao",
+    "hack"
+  ],
+  "author": "Luis",
+  "license": "ISC"
+}
